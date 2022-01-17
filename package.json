@@ -1,0 +1,19 @@
+{
+  "name": "Webcomponent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.5.2"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
